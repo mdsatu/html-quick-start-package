@@ -110,8 +110,11 @@ width: 38px;}
 opacity: 0.55;}
 
 /* My Some Comon Style */
+/* Remove list itens style */
 ul.npnls{margin:0;padding:0;}
 ul.npnls li{list-style:none;}
+
+/* 100% image width style */
 img.whp{width:100%;height:auto;}
 
  /* ==========================================================================
