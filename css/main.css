@@ -90,14 +90,9 @@ textarea {
     padding: 0.2em 0;
 }
 
-
-
-
  /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-
-
 /* scrollUp style */
 #scrollUp {background: rgba(0, 0, 0, 0) url("../img/top.png") no-repeat scroll 0 0;
 bottom: 50px;
