@@ -1,5 +1,6 @@
 # HTML QuickStart Package
 I have done some common and useful style and javascript that we use in every project regularly. The available features of this package are:
+- [HTML5 ★ BOILERPLATE v8.0.0](https://html5boilerplate.com/)
 - [Bootstrap v4.5.0](https://getbootstrap.com/docs/3.3/)
 - [Font Awesome](http://fontawesome.io)
 - [jQuery v3.3.1](https://jquery.com/)
