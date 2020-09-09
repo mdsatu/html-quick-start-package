@@ -9,4 +9,7 @@ $(document).ready(function(){
 	// Scroll to Up
 	$.scrollUp();
 
+	// Disable anchor tag
+	$("a[href='#']").click(function (e) { e.preventDefault(); });
+
 });
