@@ -1,7 +1,7 @@
 // ============================
 // Template Name: HTML QS
 // Developer: MD Satu
-// Developed By: www.mdsatu.com
+// Developed By: mdsatu.github.io
 // ============================
 
 $(document).ready(function(){
